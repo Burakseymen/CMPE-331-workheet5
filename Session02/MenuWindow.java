@@ -4,7 +4,15 @@
  * @author: Gökay Tan, 122202114
  * @author: Burak Seymen, 117202076
  * @author: Nasser M.F. Sammoudi, 119202079
+ *
+ * Stage: Review
+ * @author: Melike Zeynep Tapcı, 120200067
+ * @author: Zuhair Muhammad Shahid , 121200168
  */
+
+	/*Stage: Review:
+	/*1st Question: Most of the curly brackets are aligned, indentations and white spaces written are correctly as well as the naming of the functions in the class. But some one line comments could be written instead of multiple line comments */
+	/* 2nd Question: Buttons are working correctly and it accepts each input in the text fields and it displays the result screen as expected. */
 
 import java.awt.GridLayout;
 import java.awt.Insets;

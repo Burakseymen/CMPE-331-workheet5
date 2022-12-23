@@ -5,7 +5,13 @@
  * @author: Burak Seymen, 117202076
  * @author: Nasser M.F. Sammoudi, 119202079
  *
+ * Stage: Review
+ * @author: Melike Zeynep Tapcı, 120200067
+ * @author: Zuhair Muhammad Shahid , 121200168
+ *
  */
+/*1st Question: Most of the curly brackets are aligned, indentations and white spaces written are correctly as well as the naming of the functinos in the class. */
+/* 2nd Question: Input user_name = "gokaytan" and user_pass = "122202114" are being accepted as expected. Text fields for inputs are working correctly and this operation leads to the menuWindow as expected. */
 
 import java.awt.GridLayout;
 import java.awt.Insets;
